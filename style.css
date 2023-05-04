@@ -1,0 +1,12 @@
+body{ 
+    text-align: center;
+    font-family: cursive;
+    padding-block: 200px;
+    padding-left: 500px;
+}
+
+input{
+     cursor: pointer;
+     margin: auto;
+}
+
